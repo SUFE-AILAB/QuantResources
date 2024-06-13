@@ -13,6 +13,7 @@ Collection of publicly available quant resouces.
 - [Awesome Time Series Forecasting/Prediction Papers](https://github.com/ddz16/TSFpaper)
 - [Time Series Library (TSlib)](https://github.com/thuml/Time-Series-Library/tree/main)
 - [qlib](https://github.com/microsoft/qlib)
+- [Awesome Quant](https://github.com/wilsonfreitas/awesome-quant)
 
 ## Blog
 - [如何构建多因子模型?](https://www.zhihu.com/question/26904963/answer/3085425629)
