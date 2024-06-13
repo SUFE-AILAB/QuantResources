@@ -17,7 +17,7 @@ Collection of publicly available quant resouces.
 - [Awesome Quant](https://github.com/wilsonfreitas/awesome-quant)
 
 ## Blog
-- [QuantBench] (https://mp.weixin.qq.com/s/joPV6T94bNKYL30GG_KRnQ)
+- [QuantBench](https://mp.weixin.qq.com/s/joPV6T94bNKYL30GG_KRnQ)
 - [如何构建多因子模型?](https://www.zhihu.com/question/26904963/answer/3085425629)
 - [组合优化](https://zhuanlan.zhihu.com/p/114577767)
 - [关于因子评价](https://zhuanlan.zhihu.com/p/41454197)
