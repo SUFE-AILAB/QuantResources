@@ -15,6 +15,7 @@ Collection of publicly available quant resouces.
 - [Time Series Library (TSlib)](https://github.com/thuml/Time-Series-Library/tree/main)
 - [qlib](https://github.com/microsoft/qlib)
 - [Awesome Quant](https://github.com/wilsonfreitas/awesome-quant)
+- [Quant-Reading-List (from SJTU-Quant)](https://github.com/SJTU-Quant/Quant-Reading-List)
 
 ## Blog
 - [QuantBench](https://mp.weixin.qq.com/s/joPV6T94bNKYL30GG_KRnQ)
