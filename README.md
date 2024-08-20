@@ -16,6 +16,7 @@ Collection of publicly available quant resouces.
 - [qlib](https://github.com/microsoft/qlib)
 - [Awesome Quant](https://github.com/wilsonfreitas/awesome-quant)
 - [Quant-Reading-List (from SJTU-Quant)](https://github.com/SJTU-Quant/Quant-Reading-List)
+- [AutoGluon](https://auto.gluon.ai/stable/tutorials/timeseries/forecasting-quick-start.html)
 
 ## Blog
 - [QuantBench](https://mp.weixin.qq.com/s/joPV6T94bNKYL30GG_KRnQ)
@@ -23,4 +24,5 @@ Collection of publicly available quant resouces.
 - [组合优化](https://zhuanlan.zhihu.com/p/114577767)
 - [关于因子评价](https://zhuanlan.zhihu.com/p/41454197)
 - [时间序列区间预测/概率预测](https://zhuanlan.zhihu.com/p/554585730)
+
 
